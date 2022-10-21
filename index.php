@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-<title>Thitipong Cheujunthuek</title>
+<title>Kamonchanok Siphating</title>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
@@ -33,37 +33,37 @@ html,body,h1,h2,h3,h4,h5,h6 {font-family: "Roboto", sans-serif}
           <p><i class="fa fa-person fa-fw w3-margin-right w3-large w3-text-red"></i><b>Thiwa Sinthukoot</b></p>
           <p><i class="fa fa-briefcase fa-fw w3-margin-right w3-large w3-text-green"></i>Student</p>
           <p><i class="fa fa-home fa-fw w3-margin-right w3-large w3-text-yellow"></i>Maha Sarakham, Thailand</p>
-          <p><i class="fa fa-envelope fa-fw w3-margin-right w3-large w3-text-purple"></i>64010974030	@msu.ac.th</p>
+          <p><i class="fa fa-envelope fa-fw w3-margin-right w3-large w3-text-purple"></i>64010974015	@msu.ac.th</p>
           <p><i class="fa fa-phone fa-fw w3-margin-right w3-large w3-text-red"></i></p>
           <hr>
           <p class="w3-large"><b><i class="fa fa-asterisk fa-fw w3-margin-right w3-text-green"></i>Skills</b></p>
           <p>Microsoft Excel</p>
           <div class="w3-light-grey w3-round-xlarge w3-small">
-            <div class="w3-container w3-center w3-round-xlarge w3-blue" style="width:80%">80%</div>
+            <div class="w3-container w3-center w3-round-xlarge w3-blue" style="width:30%">30%</div>
           </div>
           <p>Microsoft Word</p>
           <div class="w3-light-grey w3-round-xlarge w3-small">
-            <div class="w3-container w3-center w3-round-xlarge w3-blue" style="width:60%">
-              <div class="w3-center w3-text-white">60%</div>
+            <div class="w3-container w3-center w3-round-xlarge w3-blue" style="width:80%">
+              <div class="w3-center w3-text-white">80%</div>
             </div>
           </div>
           <p>Python</p>
           <div class="w3-light-grey w3-round-xlarge w3-small">
-            <div class="w3-container w3-center w3-round-xlarge w3-blue" style="width:30%">30%</div>
+            <div class="w3-container w3-center w3-round-xlarge w3-blue" style="width:40%">40%</div>
           </div>
           <br>
           <p class="w3-large w3-text-theme"><b><i class="fa fa-globe fa-fw w3-margin-right w3-text-blue"></i>Languages</b></p>
                      <p>Thai</p>
           <div class="w3-light-grey w3-round-xlarge">
-            <div class="w3-round-xlarge w3-center w3-red" style="height:24px;width:90%">90%</div>
+            <div class="w3-round-xlarge w3-center w3-red" style="height:24px;width:85%">85%</div>
           </div>
           <p>English</p>
           <div class="w3-light-grey w3-round-xlarge">
-            <div class="w3-round-xlarge w3-center w3-red" style="height:24px;width:80%">80%</div>
+            <div class="w3-round-xlarge w3-center w3-red" style="height:24px;width:10%">10%</div>
           </div>
           <p>Chinese</p>
           <div class="w3-light-grey w3-round-xlarge">
-            <div class="w3-round-xlarge w3-center w3-red" style="height:24px;width:20%">20%</div>
+            <div class="w3-round-xlarge w3-center w3-red" style="height:24px;width:60%">60%</div>
           </div>
           <br>
         </div>
@@ -75,7 +75,7 @@ html,body,h1,h2,h3,h4,h5,h6 {font-family: "Roboto", sans-serif}
       <div class="w3-container w3-card w3-white">
         <h2 class="w3-text-gray w3-padding-16"><i class="fa fa-arrow-down fa-fw w3-margin-right w3-xxlarge w3-text-blue"></i>Education</h2>
         <div class="w3-container">
-          <h5 class="w3-opacity"><b>Business Information Technology</b></h5>
+          <h5 class="w3-opacity"><b>business computer</b></h5>
           <p><b>Mahasarakham University</b>          </p>
           <p>2019-Present</p>
           <h6 class="w3-text-indigo"><i class="fa fa-calendar fa-fw w3-margin-right"></i>First-year</h6>
