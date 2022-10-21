@@ -75,7 +75,7 @@ html,body,h1,h2,h3,h4,h5,h6 {font-family: "Roboto", sans-serif}
       <div class="w3-container w3-card w3-white">
         <h2 class="w3-text-gray w3-padding-16"><i class="fa fa-arrow-down fa-fw w3-margin-right w3-xxlarge w3-text-blue"></i>Education</h2>
         <div class="w3-container">
-          <h5 class="w3-opacity"><b>business computer</b></h5>
+          <h5 class="w3-opacity"><b>Business computer</b></h5>
           <p><b>Mahasarakham University</b>          </p>
           <p>2019-Present</p>
           <h6 class="w3-text-indigo"><i class="fa fa-calendar fa-fw w3-margin-right"></i>First-year</h6>
