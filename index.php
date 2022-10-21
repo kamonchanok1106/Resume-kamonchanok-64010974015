@@ -24,7 +24,7 @@ html,body,h1,h2,h3,h4,h5,h6 {font-family: "Roboto", sans-serif}
     
       <div class="w3-black w3-text-white w3-card-4">
         <div class="w3-display-container">
-          <img src="https://drive.google.com/file/d/1EGeqA8Hol3tCPB-qJ4nAZaN9B4LDUtL8/view?usp=sharing" style="width:100%;" alt="pictures">
+          <img src="https://scontent.fnak1-1.fna.fbcdn.net/v/t1.15752-9/312412322_5576369855773250_6014128600242005528_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=ae9488&_nc_eui2=AeEurX934QrZGMN_19i5hnPHzN9tXldQPtHM321eV1A-0b1QSbURYuS0oaPN51NoB2_0_nJvrlrTLV2_5ZmE8hEx&_nc_ohc=PvDUtn-OxX0AX-YZrDI&_nc_ht=scontent.fnak1-1.fna&oh=03_AdRXy3DnCqdTtMXw9s1WcsabKXHalSrNmgbU0txH9bcVvg&oe=637932B5" style="width:100%;" alt="pictures">
           <div class="w3-display-bottomleft w3-container w3-text-black">
            
           </div>
