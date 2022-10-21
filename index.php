@@ -24,13 +24,13 @@ html,body,h1,h2,h3,h4,h5,h6 {font-family: "Roboto", sans-serif}
     
       <div class="w3-black w3-text-white w3-card-4">
         <div class="w3-display-container">
-          <img src="https://mahasarakham-my.sharepoint.com/:i:/r/personal/62010914602_o365_msu_ac_th/Documents/IMG_0476.jpg?csf=1&web=1&e=Rgv0Ax" style="width:100%;" alt="pictures">
+          <img src="https://drive.google.com/file/d/1EGeqA8Hol3tCPB-qJ4nAZaN9B4LDUtL8/view?usp=sharing" style="width:100%;" alt="pictures">
           <div class="w3-display-bottomleft w3-container w3-text-black">
            
           </div>
         </div>
         <div class="w3-container">
-          <p><i class="fa fa-person fa-fw w3-margin-right w3-large w3-text-red"></i><b>Thiwa Sinthukoot</b></p>
+          <p><i class="fa fa-person fa-fw w3-margin-right w3-large w3-text-red"></i><b>Kamonchanok Siphating</b></p>
           <p><i class="fa fa-briefcase fa-fw w3-margin-right w3-large w3-text-green"></i>Student</p>
           <p><i class="fa fa-home fa-fw w3-margin-right w3-large w3-text-yellow"></i>Maha Sarakham, Thailand</p>
           <p><i class="fa fa-envelope fa-fw w3-margin-right w3-large w3-text-purple"></i>64010974015	@msu.ac.th</p>
